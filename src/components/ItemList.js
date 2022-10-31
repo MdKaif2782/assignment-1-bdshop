@@ -5,7 +5,7 @@ function ItemList() {
     <div className="item-list">
       {itemList.map((item,index) => (
           <Item img={item.image}
-                title={item.title}
+                title={item.name}
                 description={item.description}
                 rating={item.rating}
                 price={item.price}/>
