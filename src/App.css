@@ -5,12 +5,11 @@
 .item{
   background: #2c2c2c;
   height: 390px;
-    text-align: left;
+  text-align: left;
   width: 260px;
-
   padding: 10px;
   border-radius: 10px;
-    margin: 2px;
+  margin: 2px;
   color: white;
   box-shadow: black 0px 0px 10px;
   display: inline-grid;
@@ -53,4 +52,6 @@
     font-family:Inter , sans-serif;
     font-size: 20px;
     font-weight: bold;
+    position: sticky;
+    top: 0;
 }
