@@ -1,22 +1,22 @@
 .App{
-  background: black;
+  background: #292929;
     text-align: center;
 }
 .item{
-  background: #2c2c2c;
+  background: #ffa31a;
   height: 390px;
   text-align: left;
   width: 260px;
   padding: 10px;
   border-radius: 10px;
-  margin: 2px;
+  margin: 5px;
   color: white;
   box-shadow: black 0px 0px 10px;
   display: inline-grid;
 }
 
 .title{
-  color: white;
+  color: black;
     margin-top: 3px;
   margin-bottom: 5px;
   font-family: Roboto ,sans-serif;
@@ -24,14 +24,14 @@
   font-weight: bold;
 }
 .price{
-  color: #FFA500;
+  color: black;
     font-family: "Times New Roman", sans-serif;
   font-size: 14px;
 }
 .description{
   font-family: Inter ,sans-serif;
     font-size: 14px;
-    color: #ececec;
+    color: black;
   margin-top: 5px;
 }
 .image{
@@ -44,12 +44,12 @@
 }
 
 .header{
-    background: #2c2c2c;
+    background: #ffa31a;
     height: 25px;
     width: 100%;
     padding: 10px;
     margin-top: 0;
-    color: white;
+    color:black;
     box-shadow: #ffffff 0px 0px 10px;
     display: inline-block;
     text-align: center;

@@ -5,7 +5,7 @@ import ItemList from './components/ItemList';
 function App() {
   return (
     <div className="App">
-      <h2 className="header">BD SHOP</h2>
+      <h2 className="header">LIGMA SHOP</h2>
       <ItemList/>
     </div>
   );
